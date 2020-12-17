@@ -1,0 +1,19 @@
+###############################################################################
+# Set default behavior to automatically normalize line endings.
+###############################################################################
+*          text=auto
+
+# Graphics
+*.png      binary
+*.jpg      binary
+*.jpeg     binary
+*.gif      binary
+*.tif      binary
+*.tiff     binary
+*.ico      binary
+# SVG treated as an asset (binary) by default.
+*.svg      text
+# If you want to treat it as binary,
+# use the following line instead.
+# *.svg    binary
+*.eps      binary
